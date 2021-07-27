@@ -26,9 +26,9 @@
 
 ### GitHub Stats:
 
-[![Schokostoff GitHub stats](https://github-readme-stats.vercel.app/api?username=Schokostoffdioxid&theme=dark&show_icons=true)](https://github.com/Schokostoffdioxid/github-readme-stats)
+[![Schokostoff GitHub stats](https://github-readme-stats.vercel.app/api?username=Schokostoffdioxid&theme=radical&show_icons=true)](https://github.com/Schokostoffdioxid/github-readme-stats)
 
-[![Schokostoffdioxid=o](https://github-readme-stats.vercel.app/api/top-langs/?username=Schokostoffdioxid&hide=html&layout=compact&theme=dark)](https://github.com/Schokostoffdioxid/)
+[![Schokostoffdioxid=o](https://github-readme-stats.vercel.app/api/top-langs/?username=Schokostoffdioxid&hide=html&layout=compact&theme=radical)](https://github.com/Schokostoffdioxid/)
 
 <br />
 
