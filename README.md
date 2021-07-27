@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hello there, I'm Max
+### Hi there, I'm Max 👋
 
 ## Behold! My Stuff!!
 
