@@ -2,8 +2,8 @@
 
 ## Behold! My Stuff!!
 
-- 🎒 I’m currently learning Stuff<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="360px" width="360px" align="right" alt="Computador iuriCode">
-- 🌌 I'm trying to improve myself by making cool stuff 
+- 🎒 I’m currently a DevOps Engineer<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="360px" width="360px" align="right" alt="Computador iuriCode">
+- 🌌 I'm trying to improve my cool stuff 
 - ✨ 2021 Goal: Earn more money 
 
 ### Languages and Tools:
