@@ -3,8 +3,6 @@
 ## Behold! My Stuff!!
 
 - 🎒 I’m currently a DevOps Engineer<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="360px" width="360px" align="right" alt="Computador iuriCode">
-- 🌌 I'm trying to improve my cool stuff 
-- ✨ 2022 Goal: Get some Cloud and K8S Certifications! 
 
 ### Languages and Tools:
 
